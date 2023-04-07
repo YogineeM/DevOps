@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "**********Shell Scripting***************"
 echo "welcome to 2023 by user:$(whoami)"
 

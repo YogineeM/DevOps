@@ -1,0 +1,34 @@
+user/Groups
+Group/awk/find
+devops
+permission all/chmod
+ssh/scp
+systemctl/apt install
+
+sudo useradd username
+sudo groupadd devops
+sudo groupadd qa
+
+add user in grpup 
+sudo gpasswd -a user_name group_name
+
+sudo gpasswd -M user_name,user1_name group_name
+
+-a --> append single thing
+-M --> append members
+
+
+
+
+assignment quition 
+
+
+change primary grpoup to secondary grpoup:
+ 
+sudo usermod -aG secondary_group1,secondary_group2 username
+
+
+
+
+
+

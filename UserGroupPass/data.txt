@@ -1,0 +1,8 @@
+Name, Age, Education, Hobby, Profession, Address
+John Smith, 28, Bachelor's degree in Computer Science, Photography, Software Engineer, 123 Main St, Anytown USA
+Jane Doe, 35, Master's degree in Business Administration, Hiking, Marketing Manager, 456 Oak St, Anytown USA
+David Lee, 42, Bachelor's degree in Mechanical Engineering, Cooking, Mechanical Engineer, 789 Maple St, Anytown USA
+Emily Chen, 25, Bachelor's degree in English Literature, Writing, Content Writer, 101 Elm St, Anytown USA
+Michael Kim, 31, Bachelor's degree in Economics, Traveling, Financial Analyst, 555 Pine St, Anytown USA
+Samantha Wong, 27, Bachelor's degree in Psychology, Yoga, Therapist, 777 Cedar St, Anytown USA
+
